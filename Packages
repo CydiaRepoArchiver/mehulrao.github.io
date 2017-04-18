@@ -1,0 +1,16 @@
+Package: com.mehulrao.snapchatpassport
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Mehul Rao
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.mehulrao.snapchatpassport_1.0-1+debug_iphoneos-arm.deb
+Size: 4008
+MD5sum: 48fcb890b77bc9b14705ef1823cc3407
+SHA1: ddc702ed3e22a0826b8fa389cb7b178de56d3892
+SHA256: c1748f260e9793271cecc587a33c79b5b63d9e99be0583a76b0a2007d144caa6
+Section: Tweaks
+Description: Enables the snapchat hidden passport feature
+Author: Mehul Rao
+Name: Snapchat Passport Enabler
+
