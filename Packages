@@ -1,16 +1,32 @@
-Package: com.mehulrao.snapchatpassport
+Package: com.mehularo.robinhoodnojb
 Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Mehul Rao
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs/com.mehulrao.snapchatpassport_1.0-1+debug_iphoneos-arm.deb
-Size: 4008
-MD5sum: 48fcb890b77bc9b14705ef1823cc3407
-SHA1: ddc702ed3e22a0826b8fa389cb7b178de56d3892
-SHA256: c1748f260e9793271cecc587a33c79b5b63d9e99be0583a76b0a2007d144caa6
+Filename: debs/com.mehularo.robinhoodnojb_1.0-1+debug_iphoneos-arm.deb
+Size: 4662
+MD5sum: e6a0f0b3b36326279fef19ab0f352cf7
+SHA1: 4e1515f90c70e3399c627c50245a1e6be4552415
+SHA256: c703c772265b91dbc509786bd5ec792f9cd015c6839d600055649f6021cfc94b
 Section: Tweaks
-Description: Enables the snapchat hidden passport feature
+Description: Removes JB Detection in RobinHood
 Author: Mehul Rao
-Name: Snapchat Passport Enabler
+Name: RobinHood JB Bypass
+
+Package: com.mehulrao.fasterhomebutton
+Version: 1.0-5+debug
+Architecture: iphoneos-arm
+Maintainer: Mehul Rao
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: debs/com.mehulrao.fasterhomebutton_1.0-5+debug_iphoneos-arm.deb
+Size: 4050
+MD5sum: 472537ee785b85eaf8957e3474817e52
+SHA1: b7672fb0917e9f5841273aaeb7a506bf0a4d53b1
+SHA256: 654547a290229bf59830c6a80dbbb998e06ccd2a306ee59874c86c986a77d682
+Section: Tweaks
+Description: Removes the Home Button Delay
+Author: Mehul Rao
+Name: Faster Home Button
 
