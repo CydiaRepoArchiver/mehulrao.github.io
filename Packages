@@ -15,16 +15,16 @@ Author: Mehul Rao
 Name: RobinHood JB Bypass
 
 Package: com.mehulrao.fasterhomebutton
-Version: 1.0-5+debug
+Version: 1.1-1+debug
 Architecture: iphoneos-arm
 Maintainer: Mehul Rao
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs/com.mehulrao.fasterhomebutton_1.0-5+debug_iphoneos-arm.deb
-Size: 4050
-MD5sum: 472537ee785b85eaf8957e3474817e52
-SHA1: b7672fb0917e9f5841273aaeb7a506bf0a4d53b1
-SHA256: 654547a290229bf59830c6a80dbbb998e06ccd2a306ee59874c86c986a77d682
+Filename: debs/com.mehulrao.fasterhomebutton_1.1-1+debug_iphoneos-arm.deb
+Size: 4588
+MD5sum: 88ed91546bf174561f8506a20c0cf2a0
+SHA1: de635b8e360875ce1546fc641a6a551484829788
+SHA256: ffd67f827b3651c5a425eaa82145a14bd0330a133ff6d5f91c3326114861b633
 Section: Tweaks
 Description: Removes the Home Button Delay
 Author: Mehul Rao
