@@ -1,0 +1,31 @@
+<package>
+	<id>com.mehulrao.fasterhomebutton</id>
+	<name>Faster Home Button</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+                        <maxiOS>10.2</maxiOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>Faster Home Button</description>
+		<description>Speeds up your home button presses!</description>
+	</descriptionlist>
+	<changelog>
+		<change>1.1</change>
+		<change>iOS 9 Beta Support</change>
+	</changelog>
+	<links>
+		<link>
+			<name>My Github</name>
+			<url>https://github.com/Mehulrao</url>
+		</link>
+		<link>
+			<name>Donate</name>
+			<url>https://paypal.me/mehulrao</url>
+		</link>
+	</links>
+	
+		
+		</package>
