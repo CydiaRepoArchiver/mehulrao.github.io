@@ -30,3 +30,18 @@ Description: Removes the Home Button Delay
 Author: Mehul Rao
 Name: Faster Home Button
 
+Package: com.mehulrao.jbfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Mehul Rao <mehulrao@gmail.com>
+Depends: firmware (>=8.4), mobilesubstrate
+Filename: debs/com.mehulrao.jbfix.deb
+Size: 136970
+MD5sum: f6a5b7f006e58709ddb29783c06fac42
+SHA1: c76c7466fe334af997da57d8080b6d66b3a82028
+SHA256: b129a199a100ec85885b931873a76e31bc2c10540e9d2ec77aad88514de97b6c
+Section: Tweaks
+Description: Helps you fix iOS 8.4.1 Patcyh
+Author: Mehul Rao
+Name: Patcyh Fix
+
